@@ -1,8 +1,8 @@
 # Utilisation de map 
 
-Map est un conteneur avec un principe de clef value.
-Aussi c'est un conteneur qui s'alloue automatiquement.
-Map est un contener qui est automatiquement triée en ordre croissant.
+Map est un conteneur avec un principe de clef value. <br>
+Aussi c'est un conteneur qui s'alloue automatiquement. <br>
+Map est un contener qui est automatiquement triée en ordre croissant. <br>
 
 Exemple : 
 
