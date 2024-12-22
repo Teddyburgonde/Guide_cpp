@@ -1,6 +1,7 @@
 # Utilisation de map 
 
-Map est un conteneur qui s'alloue automatiquement.
+Map est un conteneur avec un principe de clef value.
+Aussi c'est un conteneur qui s'alloue automatiquement.
 
 Exemple : 
 
